@@ -1,0 +1,7 @@
+streamlit==1.8.0
+Keras==2.7.0
+numpy
+tensorflow
+utils==2.5.6
+
+
